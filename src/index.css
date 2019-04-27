@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(89deg, #ccffcc 0%, #ffe6e6 100%); /* w3c */
+}
+
+.signOut {
+  background-color: #FF416C;
+  /*border-radius: 40px;*/
+  color: white;
+  border-color: #FF4B2B;
+  padding: .5em 1em .5em 1em;
+}
+
+button {
+  cursor: pointer;
+}
